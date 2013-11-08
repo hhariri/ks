@@ -60,6 +60,12 @@ We can run any of the compilers without parameters to have an interactive shell.
 
 ![Shell]({{ site.baseurl }}{{ site.tutorial_images_url }}/command_line_kotlin_shell.png)
 
+### Using the command line to run scripts
 
+Kotlin can also be used as a scripting language. To run a script, we just pass the *-script* option to the compiler with the corresponding script file (.ktscript)
+
+    ```
+    kotlinc-jvm -script list_folders.ktscript
+    ```
 
 
