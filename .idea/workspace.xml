@@ -23,15 +23,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="command_line.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/tutorials/command_line.md">
+      <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="0" selection-start="1624" selection-end="1624" vertical-scroll-proportion="0.51501155" vertical-offset="199" max-vertical-offset="1065">
+            <state line="8" column="45" selection-start="243" selection-end="243" vertical-scroll-proportion="0.13289036" vertical-offset="0" max-vertical-offset="903">
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
           </provider>
         </entry>
       </file>
@@ -53,8 +50,8 @@
         <option value="$PROJECT_DIR$/_data/common.yml" />
         <option value="$PROJECT_DIR$/_layouts/tutorial.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/docs/tutorials/getting_started.md" />
         <option value="$PROJECT_DIR$/docs/tutorials/command_line.md" />
+        <option value="$PROJECT_DIR$/docs/tutorials/getting_started.md" />
       </list>
     </option>
   </component>
@@ -213,8 +210,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="editing.templates" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -227,6 +224,14 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -235,14 +240,6 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
@@ -286,13 +283,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1024" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24984913" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24984913" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -364,23 +361,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="8" selection-start="447" selection-end="447" vertical-scroll-proportion="0.2724177" vertical-offset="0" max-vertical-offset="881">
-          <folding />
-        </state>
+        <state line="16" column="8" selection-start="447" selection-end="447" vertical-scroll-proportion="0.2724177" vertical-offset="0" max-vertical-offset="881" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="144" selection-end="144" vertical-scroll-proportion="0.15323496" vertical-offset="0" max-vertical-offset="881">
-          <folding />
-        </state>
+        <state line="9" column="0" selection-start="144" selection-end="144" vertical-scroll-proportion="0.15323496" vertical-offset="0" max-vertical-offset="881" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/docs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="701" selection-end="701" vertical-scroll-proportion="0.45970488" vertical-offset="0" max-vertical-offset="881">
-          <folding />
-        </state>
+        <state line="27" column="0" selection-start="701" selection-end="701" vertical-scroll-proportion="0.45970488" vertical-offset="0" max-vertical-offset="881" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/common.yml">
@@ -399,43 +390,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="5" selection-start="272" selection-end="272" vertical-scroll-proportion="0.24861878" vertical-offset="0" max-vertical-offset="2490">
-          <folding />
-        </state>
+        <state line="15" column="5" selection-start="272" selection-end="272" vertical-scroll-proportion="0.24861878" vertical-offset="0" max-vertical-offset="2490" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/syntax.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="45" selection-start="231" selection-end="231" vertical-scroll-proportion="0.13259669" vertical-offset="0" max-vertical-offset="905">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/tutorials/getting_started.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="24" selection-start="1346" selection-end="1346" vertical-scroll-proportion="0.30715936" vertical-offset="154" max-vertical-offset="1020">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
+        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/tutorials/command_line.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="0" selection-start="1624" selection-end="1624" vertical-scroll-proportion="0.51501155" vertical-offset="199" max-vertical-offset="1065">
+        <state line="53" column="46" selection-start="2006" selection-end="2006" vertical-scroll-proportion="0.8764045" vertical-offset="15" max-vertical-offset="1065">
           <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/tutorials/getting_started.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="0" selection-start="2848" selection-end="2848" vertical-scroll-proportion="0.8159722" vertical-offset="135" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="45" selection-start="243" selection-end="243" vertical-scroll-proportion="0.13289036" vertical-offset="0" max-vertical-offset="903">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
