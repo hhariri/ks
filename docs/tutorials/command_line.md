@@ -51,14 +51,14 @@ Important: If running on OSX/Linux, please make sure you run *chmod* to give exe
     The classpath should contain the output from step 2 as well as the path to the *kotlin_runtime.jar* file. The _DefaultPackage is the name of the main class that
     the Kotlin compiler generates by default.
 
-    ![Command Line Output]({{ site.baseurl }}/{{ site.tutorial_images_url}}/command_line_output.png)
+    ![Command Line Output]({{ site.baseurl }}{{ site.tutorial_images_url}}/command_line_output.png)
 
 
 ### Running the shell
 
 We can run any of the compilers without parameters to have an interactive shell. We can type any valid Kotlin code and see the results
 
-![Shell]({{ site.baseurl }}/{{ site.tutorial_images_url }}/command_line_kotlin_shell.png)
+![Shell]({{ site.baseurl }}{{ site.tutorial_images_url }}/command_line_kotlin_shell.png)
 
 
 

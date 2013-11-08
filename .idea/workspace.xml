@@ -23,12 +23,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
+      <file leaf-file-name="getting_started.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/tutorials/getting_started.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="12" selection-start="74" selection-end="74" vertical-scroll-proportion="0.049833886" vertical-offset="0" max-vertical-offset="903">
+            <state line="51" column="49" selection-start="2710" selection-end="2710" vertical-scroll-proportion="0.7048611" vertical-offset="156" max-vertical-offset="1020">
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -49,9 +52,9 @@
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_data/common.yml" />
         <option value="$PROJECT_DIR$/_layouts/tutorial.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/docs/tutorials/command_line.md" />
         <option value="$PROJECT_DIR$/docs/tutorials/getting_started.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -318,13 +321,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/docs/tutorials/getting_started.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="53" selection-start="1774" selection-end="1774" vertical-scroll-proportion="0.0" vertical-offset="212" max-vertical-offset="1140">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/tutorials/getting_started.md">
-      <provider selected="true" editor-type-id="text-editor">
         <state line="52" column="53" selection-start="2710" selection-end="2710" vertical-scroll-proportion="0.0" vertical-offset="220" max-vertical-offset="1140">
           <folding />
         </state>
@@ -398,9 +394,23 @@
         <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="22" selection-start="220" selection-end="220" vertical-scroll-proportion="0.13289036" vertical-offset="0" max-vertical-offset="903">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/tutorials/command_line.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="46" selection-start="2006" selection-end="2006" vertical-scroll-proportion="0.8764045" vertical-offset="15" max-vertical-offset="1065">
+        <state line="60" column="27" selection-start="2248" selection-end="2248" vertical-scroll-proportion="0.8263889" vertical-offset="186" max-vertical-offset="1065">
           <folding />
         </state>
       </provider>
@@ -410,19 +420,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/tutorials/getting_started.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="0" selection-start="2848" selection-end="2848" vertical-scroll-proportion="0.8159722" vertical-offset="135" max-vertical-offset="1020">
+        <state line="51" column="49" selection-start="2710" selection-end="2710" vertical-scroll-proportion="0.7048611" vertical-offset="156" max-vertical-offset="1020">
           <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="12" selection-start="74" selection-end="74" vertical-scroll-proportion="0.049833886" vertical-offset="0" max-vertical-offset="903">
-          <folding />
-        </state>
       </provider>
     </entry>
   </component>
