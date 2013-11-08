@@ -1,9 +1,9 @@
 name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
-baseurl: /ks
+baseurl: ks
 
 latest_release_version: M6.1
 latest_release_github_url: https://github.com/JetBrains/kotlin/releases?after=build-0.6.860
 
-tutorial_images_url: /assets/images/tutorials
+tutorial_images_url: assets/images/tutorials
